@@ -16,5 +16,14 @@ class ViewController: UIViewController {
     }
 
 
+    
+    
+    
+    
+    
+    
+    func bigChange(){
+        print("the goods")
+    }
 }
 
